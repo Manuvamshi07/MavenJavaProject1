@@ -1,1 +1,1 @@
-# MavenJavaProject1
+# MavenWeb
